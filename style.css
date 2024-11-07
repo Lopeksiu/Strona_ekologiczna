@@ -1,3 +1,46 @@
-body{
-    background-color: red;
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: green;
+    margin-top: 20px;
+}
+h2 {
+    font-size: 2em;
+    color: #2c5f2d;
+    margin-top: 20px;
+}
+p, li {
+    font-size: 1.2em;
+}
+.section {
+    margin-top: 30px;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+ul li {
+    margin-bottom: 10px;
+}
+.section-link a {
+    color: #1f8e2d;
+    text-decoration: none;
+    font-weight: bold;
+}
+.lista-parki{
+text-align: center;
+
+
+}
+.link{
+    font-size: 20px;
+    color: #1f8e2d;
+    text-align: center;
 }
