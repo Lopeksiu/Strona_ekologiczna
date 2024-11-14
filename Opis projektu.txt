@@ -1,14 +1,15 @@
-Projekt ma na celu stworzenie przestrzeni promującej odpoczynek i rekreację na terenach zielonych Warszawy, szczególnie skierowanej do mieszkańców centralnych części miasta.
-Inicjatywa ta ma pomóc osobom przytłoczonym miejskim zgiełkiem w odnalezieniu spokoju w otoczeniu natury, jednocześnie podnosząc świadomość na temat dostępności parków i terenów zielonych.
-Cele:
--Promocja zdrowego stylu życia: Zachęcenie mieszkańców Warszawy do spędzania więcej czasu na świeżym powietrzu, co może przyczynić się do poprawy zdrowia psychicznego i fizycznego.
--Ułatwienie dostępu do terenów zielonych: Dostarczenie informacji o lokalnych parkach, skwerach i obiektach przyrodniczych dostępnych w Warszawie.
--Ochrona środowiska: Podniesienie świadomości na temat korzyści płynących z kontaktu z naturą i konieczności zachowania terenów zielonych w mieście.
-
-Pomysł powstał jako odpowiedź na proces intensywnego betonowania Warszawy, który znacząco ogranicza dostępność zielonych przestrzeni.
-W obliczu rosnącej urbanizacji, projekt ten stara się przeciwdziałać zjawisku 'Betonowej dżungli' i przywrócić znaczenie natury w życiu miejskim.
+Przydatność społeczna:
+  Projekt ma na celu stworzenie przestrzeni promującej odpoczynek i rekreację na terenach zielonych Warszawy, szczególnie skierowanej do mieszkańców centralnych części miasta.
+  Inicjatywa ta ma pomóc osobom przytłoczonym miejskim zgiełkiem w odnalezieniu spokoju w otoczeniu natury, jednocześnie podnosząc świadomość na temat dostępności parków i terenów zielonych.
+  Cele:
+    -Promocja zdrowego stylu życia: Zachęcenie mieszkańców Warszawy do spędzania więcej czasu na świeżym powietrzu, co może przyczynić się do poprawy zdrowia psychicznego i fizycznego.
+    -Ułatwienie dostępu do terenów zielonych: Dostarczenie informacji o lokalnych parkach, skwerach i obiektach przyrodniczych dostępnych w Warszawie.
+    -Ochrona środowiska: Podniesienie świadomości na temat korzyści płynących z kontaktu z naturą i konieczności zachowania terenów zielonych w mieście.
+Pomysł:
+  Pomysł powstał jako odpowiedź na proces intensywnego betonowania Warszawy, który znacząco ogranicza dostępność zielonych przestrzeni.
+  W obliczu rosnącej urbanizacji, projekt ten stara się przeciwdziałać zjawisku 'Betonowej dżungli' i przywrócić znaczenie natury w życiu miejskim.
 
 Wykonanie:
-Kolorystyka: Jasne, przyjazne barwy z przewagą zieleni, symbolizujące naturę i świeżość.
-Estetyka: Projekt graficzny nawiązuje do motywów roślinnych i naturalnych tekstur, aby podkreślić związek z przyrodą.
-Elementy interaktywne: Przewiduje się wykorzystanie nowoczesnych rozwiązań multimedialnych (np. mapy interaktywne, zdjęcia panoramiczne) do prezentacji lokalizacji zielonych przestrzeni.
+  Kolorystyka: Jasne, przyjazne barwy z przewagą zieleni, symbolizujące naturę i świeżość.
+  Estetyka: Projekt graficzny nawiązuje do motywów roślinnych i naturalnych tekstur, aby podkreślić związek z przyrodą.
+  Elementy interaktywne: Przewiduje się wykorzystanie nowoczesnych rozwiązań multimedialnych (np. mapy interaktywne, zdjęcia panoramiczne) do prezentacji lokalizacji zielonych przestrzeni.
